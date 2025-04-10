@@ -73,7 +73,7 @@ public class GameUI : MonoBehaviour
     {
         Vector2 playerPos = player.transform.position;
         Vector2 spawnPos;
-        float minDistance = 5f; // distância mínima do player
+        float minDistance = 5f;
         float mapMinX = -8f, mapMaxX = 8f;
         float mapMinY = -4f, mapMaxY = 4f;
 

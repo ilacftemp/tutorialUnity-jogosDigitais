@@ -20,9 +20,9 @@ public class MenuManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
-    public void QuitGame()
+    public void ReturnToStartMenu()
     {
-        Debug.Log("Quit button pressed.");
-        Application.Quit();
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(0);
     }
 }

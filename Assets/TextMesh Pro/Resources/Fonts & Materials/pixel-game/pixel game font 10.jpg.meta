@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2cf197962aef7ec4184e9caf5df84626
+guid: 7f239eae38d38cf4db6181880474777e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5431696534659684443
-    second: 1.1-antes-meio-dia_0
+      213: 2390652066707898957
+    second: pixel game font 10_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,17 +109,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1.1-antes-meio-dia_0
+      name: pixel game font 10_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1536
-        height: 1024
+        width: 1820
+        height: 1215
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7a3e3b7ccbe94b0800000000000000
-      internalID: -5431696534659684443
+      spriteID: d428da1736d4d2120800000000000000
+      internalID: 2390652066707898957
       vertices: []
       indices: 
       edges: []
